@@ -1,0 +1,16 @@
+{
+  "package": {
+    "downloadUrlList": [
+      "https://raw.githubusercontent.com/atrcb-git/astex-tube-updates/main/astex-tube.apk"
+    ],
+    "downloadUrlList_armeabi-v7a": [
+      "https://raw.githubusercontent.com/atrcb-git/astex-tube-updates/main/astex-tube.apk"
+    ]
+  },
+  "32.68 r1": {
+    "versionCode": 245801,
+    "changelog": [
+      "Built from SmartTube 32.68s with ASTEX styling"
+    ]
+  }
+}
