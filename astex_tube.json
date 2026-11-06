@@ -7,10 +7,10 @@
       "https://raw.githubusercontent.com/atrcb-git/astex-tube-updates/main/astex-tube.apk"
     ]
   },
-  "32.68 r4": {
-    "versionCode": 245804,
+  "32.71 r4": {
+    "versionCode": 246104,
     "changelog": [
-      "Built from SmartTube 32.68s with ASTEX styling"
+      "Built from SmartTube 32.71s with ASTEX styling"
     ]
   }
 }
